@@ -16,7 +16,7 @@ public class Main {
                     1. Register Reservation
                     2. List All Reservations
                     3. Filter Reservations by Date
-                    4. Count Reservations by Date
+                    4. Count Reservations by Date - UPDATE                   
                     5. Exit
                     """);
 
